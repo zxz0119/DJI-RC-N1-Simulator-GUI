@@ -5,8 +5,6 @@
 > 🎮 将你的大疆 RC-N1 遥控器变身为电脑上的 Xbox 360 手柄，畅玩各类飞行模拟器。
 
 ---
-![Uploading image.png…]()
-
 
 ## 📖 Introduction (简介)
 
